@@ -1,0 +1,15 @@
+{
+	"name": "ghalaDataFactory",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "f67a37a7-b529-498a-93cc-9058ab3047a8",
+		"tenantId": "b14d6b15-b7ee-4957-bb14-b610a193a410"
+	}
+}
